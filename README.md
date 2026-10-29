@@ -1,2 +1,14 @@
-# tesserasnap-releases
-tesserasnap-releases
+<p align="center">
+  <a href="https://tesserasnap.com"><img src="assets/banner.png" alt="TesseraSnap: every window, exactly where you want it. A fast, tiny window manager for Windows 11." width="100%"></a>
+</p>
+
+# TesseraSnap downloads
+
+TesseraSnap is a keyboard-and-gesture window manager for Windows 11.
+
+**Download it from [tesserasnap.com/download](https://tesserasnap.com/download).**
+
+This repository only holds the release files. TesseraSnap updates itself from here: use Check for
+Updates in the tray menu, or turn on automatic checks in Settings.
+
+Help and contact: [tesserasnap.com/support](https://tesserasnap.com/support)
