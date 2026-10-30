@@ -6,7 +6,7 @@
 
 TesseraSnap is a keyboard-and-gesture window manager for Windows 11.
 
-**Download the latest version from [Releases](https://github.com/pattont/tesserasnap-releases/releases/latest):** `TesseraSnap-Installer.exe` installs it; `TesseraSnap-Portable-x64.exe` runs without installing.
+**Download the latest version from [Releases](https://github.com/pattont/tesserasnap-releases/releases/latest):** `TesseraSnap-Installer-<version>.exe` installs it; `TesseraSnap-Portable-<version>-x64.exe` runs without installing.
 
 This repository only holds the release files. TesseraSnap updates itself from here: use Check for
 Updates in the tray menu, or turn on automatic checks in Settings.
